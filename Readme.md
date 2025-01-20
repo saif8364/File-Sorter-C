@@ -1,6 +1,4 @@
-# Writing the markdown content into a file
 
-md_content = """
 # File Sorting System Project
 
 ## 🚀 Overview
